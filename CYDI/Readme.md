@@ -6,3 +6,8 @@ Using joystick to control player character.
 
 Preview:
 
+![](https://github.com/pnxuantruong/Games/blob/main/CYDI/Image/menu.png)
+
+![](https://github.com/pnxuantruong/Games/blob/main/CYDI/Image/gameplay.png)
+
+![](https://github.com/pnxuantruong/Games/blob/main/CYDI/Image/gameplay2.png)
