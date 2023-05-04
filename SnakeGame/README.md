@@ -28,6 +28,6 @@ Change stagery between DFS and A* in method ChooseDirection() of file SearchMap.
 
 ![](https://github.com/pnxuantruong/Games/blob/main/SnakeGame/videos/DFS.gif)
 
-## AStar:
+## A*:
 
 ![](https://github.com/pnxuantruong/Games/blob/main/SnakeGame/videos/AStar.gif)
